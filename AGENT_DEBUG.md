@@ -9,8 +9,8 @@ A normative specification for making agent misbehavior debuggable by lookup rath
 | Author | Yu-Chi TSOU (Liamour) |
 | License | CC BY 4.0 |
 | Status | Working Draft |
-| Home | https://github.com/Liamour/espalier |
-| Feedback | https://github.com/Liamour/espalier/issues |
+| Home | https://github.com/Liamour/Espalier |
+| Feedback | https://github.com/Liamour/Espalier/issues |
 | Companion documents | `SPEC.md` (Espalier, normative), `CAPABILITY_HOST.md` (capability systems under Espalier, normative), `RATIONALE.md` and `TEMPLATES.md` (informative) |
 
 **Status of this document.** This is a Working Draft. It may be updated, replaced, or obsoleted at any time; cite it only as work in progress, by exact version. The author ratifies the transition from Working Draft to a release version; a release requires at least one implementation assessed at Level 2 against the frozen text.

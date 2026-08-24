@@ -131,7 +131,7 @@ Rule 7 check: every rule in the project context file cites one of these ids or c
 
 ## T4. Conformance checklist (SPEC section 11)
 
-This checklist enumerates the requirements each level cites; SPEC section 11 is authoritative and this list must be regenerated when it changes. Regenerated for SPEC 1.0.0-draft.2, whose Level 3 list gained the sub-requirements of 9.1. A model-facing capability system is additionally assessed against `CAPABILITY_HOST.md` and `AGENT_DEBUG.md`, which carry their own level lists; this checklist covers the parent standard only.
+This checklist enumerates the requirements each level cites; SPEC section 11 is authoritative and this list must be regenerated when it changes. Regenerated for SPEC 1.0.0-draft.2, whose Level 3 list gained the sub-requirements of 9.1; draft.3 changed no requirement, so this list is unchanged and carries forward. A model-facing capability system is additionally assessed against `CAPABILITY_HOST.md` and `AGENT_DEBUG.md`, which carry their own level lists; this checklist covers the parent standard only.
 
 Level 1, Mapped (MUST satisfy 4.1, 4.3, 6.1, 7.1, 7.2, 7.3, 7.5, 7.9):
 - [ ] layer-A map exists, at or under 20 nodes, owner-reviewed (7.1)

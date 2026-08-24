@@ -464,7 +464,7 @@ Normative (this list is normative; see Conformance notation):
 
 - [RFC2119] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 - [RFC8174] Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words", BCP 14, RFC 8174, May 2017.
-- [ESPALIER] "Espalier", `SPEC.md`, this repository, version 1.0.0-draft.2. Cited for sections 3 (terms), 4 (guarantee ladder), 5 (dependency versus derivation), 8 (manifests and fail-loud construction), 9 (registration is the single declaration and exposure is a governed projection, including the closed input set of 9.1.6 and the companion precedence rule of 9.1.9).
+- [ESPALIER] "Espalier", `SPEC.md`, this repository, version 1.0.0-draft.3. Cited for sections 3 (terms), 4 (guarantee ladder), 5 (dependency versus derivation), 8 (manifests and fail-loud construction), 9 (registration is the single declaration and exposure is a governed projection, including the closed input set of 9.1.6 and the companion precedence rule of 9.1.9).
 - [CAPABILITY-HOST] "Capability hosts under Espalier", `CAPABILITY_HOST.md`, this repository, version 0.1.0-draft.1. Cited for the projection, disclosure, reachability gate, and prose-lock mechanisms this document records rather than defines; 8.6 there reads the boundary from this document's `tree` and `caller` fields, and 14.8 and 14.14 there bind this document's diff class set and artifact schema by reference.
 
 Informative:

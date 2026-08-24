@@ -1,5 +1,7 @@
 # Espalier
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22075256.svg)](https://doi.org/10.5281/zenodo.22075256)
+
 **The dependency map method** — a structure-first engineering standard for codebases co-developed by humans and AI agents.
 
 ## 中文摘要
@@ -10,7 +12,7 @@
 
 | Document | Version | Status | Role |
 |---|---|---|---|
-| [SPEC](SPEC.md) | 1.0.0-draft.2 | Working Draft | The standard. Normative. |
+| [SPEC](SPEC.md) | 1.0.0-draft.3 | Working Draft | The standard. Normative. |
 | [CAPABILITY_HOST](CAPABILITY_HOST.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: capability systems served to a model. |
 | [AGENT_DEBUG](AGENT_DEBUG.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: debugging agent misbehaviour by lookup. |
 | [RATIONALE](RATIONALE.md) | — | Informative | Where each rule comes from, what supports it, and where the evidence is thin. |
@@ -47,4 +49,4 @@ Patent and trademark rights are not licensed (CC BY 4.0 section 2(b)(2)).
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). Cite by exact version; this is a Working Draft and may be updated, replaced, or obsoleted at any time.
+See [CITATION.cff](CITATION.cff). The archived record is at [10.5281/zenodo.22075256](https://doi.org/10.5281/zenodo.22075256), a concept DOI that always resolves to the latest deposited version; cite the version DOI shown on that record for the exact draft you assessed against. Cite by exact version; this is a Working Draft and may be updated, replaced, or obsoleted at any time.

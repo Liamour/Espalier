@@ -2,6 +2,22 @@
 
 All notable changes to Espalier standard. Versioning per SPEC section 14.
 
+## 1.0.0-draft.3 (2026-08-24)
+
+No requirement changed. The draft identifier advances because section 14 advances it on any change, not only on a normative one, and applying that rule to an inconvenient change is the point of having written it. A Level assessment made against draft.2 stands against draft.3 without reassessment.
+
+Changed:
+
+- `RATIONALE.md` stated that [S]-marked quotes should be re-verified before being re-cited, which implied that a [P] mark made re-verification unnecessary. It does not. A three-way audit run over a separate corpus under the same marking discipline found that the marks did not predict which citations failed: most failures carried no cautionary mark at all, and most items marked uncertain proved correct once the primary was retrieved. The marks record how a source was reached at the time of writing, not whether it supports the claim it is cited for. This document carries its own counterexample: reference [11] was marked [P] and was still wrong about its subject. The replacement states the limit and names the three questions a citation must pass, since existence and attribution can both hold while support does not.
+- Four citations were repaired against a full audit of the 51-item reference list, carried in the first commit of this repository. Two were the dangerous class, a real and correctly attributed source cited for a claim it does not make: [44] never prescribes CI-enforced fitness functions, and [43] is peer-reviewed at TOSEM 2026 rather than an unpublished preprint and is about technical debt broadly rather than architecture erosion. [1] said ArchUnit shrinks its freeze baseline only by explicit human action when its default does so automatically, which is now stated as an ecosystem difference an adopter must configure around. [11] called an extension gem a fork.
+- `TEMPLATES.md` A2 published an enforcer claim that the reference implementation had already found false and corrected. It now states the honest partial condition with the gap on the register, which is what rule 7 asks a template to demonstrate: naming an enforcer includes naming it when it is not yet strong enough.
+- Example module names and the layer-B generator parameters no longer name a private production layout.
+- `RATIONALE.md` section 1 no longer names a private project or characterises it negatively.
+
+Added:
+
+- The author's ORCID in `CITATION.cff` and `.zenodo.json`, so the citation record resolves to a person independently of any account, employer, or email address.
+
 ## 1.0.0-draft.2 (2026-08-20)
 
 Amendment to rule 6 (section 9), with the consequential edits it forces elsewhere. No section or requirement was renumbered. Requirements 8.2, 9.4, 11.1 and 11.3 changed; the Level 3 enumeration in section 11 gained requirement numbers that already existed; section 3 became normative and gained terms; `TEMPLATES.md` T4 was regenerated.

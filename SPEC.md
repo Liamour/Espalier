@@ -4,8 +4,8 @@ The dependency map method: a structure-first engineering standard for codebases 
 
 | | |
 |---|---|
-| Version | 1.0.0-draft.2 |
-| Date | 2026-08-20 |
+| Version | 1.0.0-draft.3 |
+| Date | 2026-08-24 |
 | Author | Yu-Chi TSOU (Liamour) |
 | License | CC BY 4.0 |
 | Status | Working Draft |
@@ -15,7 +15,9 @@ The dependency map method: a structure-first engineering standard for codebases 
 
 **Status of this document.** This is a Working Draft. It may be updated, replaced, or obsoleted at any time; cite it only as work in progress, by exact version. The author ratifies the transition from Working Draft to a release version; a release requires at least one implementation assessed at Level 2 against the frozen text.
 
-**Status of this amendment.** Draft.2 amends rule 9.1 and states it as nine numbered sub-requirements; amends 8.2, 9.4, 11.1 and 11.3; declares section 3 normative and adds the terms the amended rule turns on; adds the sub-requirements of 9.1 to the Level 3 enumeration in section 11; and adds two normative references. No section or requirement was renumbered. The Level 3 requirement list cites the same numbers it cited before, but Level 3 rises substantively: 9.1.1 and 9.1.2 bind through 9.1, so a Level 3 claim now carries a boundary-derived projection materialized as a readable artifact and, where the projection withholds, a derived announcement together with a host-side reachability gate. A Level 3 claim made against draft.1 is reassessed against draft.2 before it is restated. Section and requirement numbers are a coordinate system cited from outside this document, so an amendment adds sub-requirements under an existing number rather than renumber; extending a level's enumeration with numbers that already exist is not renumbering. The evidence base for the amendment is recorded in `CHANGELOG.md` and cited inline in 9.1.
+**Status of this amendment.** Draft.3 changes no requirement. It corrects one informative sentence in `RATIONALE.md` that claimed a primary-fetched citation mark made re-verification unnecessary, a claim this document's own reference [11] falsified, and it adds the author's ORCID to the citation metadata. The draft identifier advances because section 14 advances it on any change, not only on a normative one; a Level assessment made against draft.2 stands against draft.3 without reassessment, because no requirement moved.
+
+**Status of the previous amendment.** Draft.2 amends rule 9.1 and states it as nine numbered sub-requirements; amends 8.2, 9.4, 11.1 and 11.3; declares section 3 normative and adds the terms the amended rule turns on; adds the sub-requirements of 9.1 to the Level 3 enumeration in section 11; and adds two normative references. No section or requirement was renumbered. The Level 3 requirement list cites the same numbers it cited before, but Level 3 rises substantively: 9.1.1 and 9.1.2 bind through 9.1, so a Level 3 claim now carries a boundary-derived projection materialized as a readable artifact and, where the projection withholds, a derived announcement together with a host-side reachability gate. A Level 3 claim made against draft.1 is reassessed against draft.2 before it is restated. Section and requirement numbers are a coordinate system cited from outside this document, so an amendment adds sub-requirements under an existing number rather than renumber; extending a level's enumeration with numbers that already exist is not renumbering. The evidence base for the amendment is recorded in `CHANGELOG.md` and cited inline in 9.1.
 
 ## Abstract
 

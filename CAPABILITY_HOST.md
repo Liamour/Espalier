@@ -469,7 +469,7 @@ Normative (this list is normative; see Conformance notation):
 
 - [RFC2119] Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 - [RFC8174] Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words", BCP 14, RFC 8174, May 2017.
-- [ESPALIER] "Espalier", `SPEC.md`, this repository, version 1.0.0-draft.2, cited by exact version in any conformance claim.
+- [ESPALIER] "Espalier", `SPEC.md`, this repository, version 1.0.0-draft.3, cited by exact version in any conformance claim.
 - [AGENT-DEBUG] "Agent debugging under derivation", `AGENT_DEBUG.md`, this repository, version 0.1.0-draft.1. Invoked normatively by 3.1, 8.2, 14.8 and 14.14: it states the provenance artifact's schema, the class set of a difference between two artifacts, and the recording location of each of the five projection inputs. Where this document and [AGENT-DEBUG] conflict, 3.1 states which governs.
 
 Informative:

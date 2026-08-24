@@ -27,8 +27,12 @@ authors:
     alias: Liamour
     orcid: https://orcid.org/0009-0007-8752-6433
 license: CC-BY-4.0
-version: 1.0.0-draft.2
-date-released: 2026-08-21
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22075256
+    description: Concept DOI, always resolving to the latest deposited version
+version: 1.0.0-draft.3
+date-released: 2026-08-24
 url: "https://github.com/Liamour/Espalier"
 repository-code: "https://github.com/Liamour/Espalier"
 keywords:

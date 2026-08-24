@@ -1,0 +1,24 @@
+{
+  "title": "Espalier: the dependency map method, with companion specifications Capability Hosts under Espalier and Agent Debugging under Derivation",
+  "license": "cc-by-4.0",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "language": "eng",
+  "version": "1.0.0-draft.2",
+  "creators": [
+    {
+      "name": "TSOU, Yu-Chi"
+    }
+  ],
+  "description": "<p>Espalier is a structure-first engineering standard for codebases co-developed by humans and AI agents. Design documents customarily stop one level above the component; every relationship they leave unstated is improvised at implementation time, and improvised relationships are where coupling disasters begin. When developers are agents whose working context is ephemeral, the rung of the guarantee ladder held by human memory drops to approximately zero retention.</p><p>Espalier closes that last mile with seven rules: a guarantee ladder ranking how invariants are held (structure over machine check over human memory); a strict separation of dependencies from derivations (declare once, derive everywhere); a five-type dependency taxonomy with per-type enforcement; a two-layer mapping discipline whose intent-versus-measured diff is the work list; a module manifest contract with fail-loud construction; a rule that registration is the single declaration from which every served surface is derived as a governed projection rather than a second hand-written list; and a rule that every stated invariant names its machine enforcer. A three-level conformance model (Mapped, Checked, Derived) makes adoption incremental and claims testable.</p><p>Two companion specifications are normative within their scope: <em>Capability hosts under Espalier</em> covers capability systems served to a model, and <em>Agent debugging under derivation</em> specifies making agent misbehaviour debuggable by lookup rather than by recollection.</p><p>Requirements carry inline evidence recitations naming the experiment and result each obligation rests on, and refutations are stated at full strength in normative text alongside the results they qualify.</p>",
+  "keywords": [
+    "software architecture",
+    "architecture conformance",
+    "architecture erosion",
+    "AI coding agents",
+    "large language models",
+    "dependency management",
+    "capability systems",
+    "engineering standards"
+  ]
+}

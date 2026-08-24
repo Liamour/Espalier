@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this standard or its companion specifications, please cite it as below."
+title: "Espalier: the dependency map method, with companion specifications Capability Hosts under Espalier and Agent Debugging under Derivation"
+abstract: >-
+  Espalier is a structure-first engineering standard for codebases co-developed by
+  humans and AI agents. Design documents customarily stop one level above the
+  component; every relationship they leave unstated is improvised at implementation
+  time, and improvised relationships are where coupling disasters begin. When
+  developers are agents whose working context is ephemeral, the rung of the
+  guarantee ladder held by human memory drops to approximately zero retention.
+  Espalier closes that last mile with seven rules: a guarantee ladder ranking how
+  invariants are held (structure over machine check over human memory); a strict
+  separation of dependencies from derivations (declare once, derive everywhere); a
+  five-type dependency taxonomy with per-type enforcement; a two-layer mapping
+  discipline whose intent-versus-measured diff is the work list; a module manifest
+  contract with fail-loud construction; a rule that registration is the single
+  declaration from which every served surface is derived as a governed projection;
+  and a rule that every stated invariant names its machine enforcer. A three-level
+  conformance model (Mapped, Checked, Derived) makes adoption incremental and
+  claims testable. Companion specifications extend the standard to capability
+  systems served to a model and to debugging agent misbehaviour by lookup rather
+  than by recollection.
+type: software
+authors:
+  - family-names: TSOU
+    given-names: Yu-Chi
+    alias: Liamour
+license: CC-BY-4.0
+version: 1.0.0-draft.2
+date-released: 2026-08-21
+url: "https://github.com/Liamour/espalier"
+repository-code: "https://github.com/Liamour/espalier"
+keywords:
+  - software architecture
+  - architecture conformance
+  - architecture erosion
+  - AI coding agents
+  - large language models
+  - dependency management
+  - capability systems
+  - engineering standards

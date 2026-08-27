@@ -2,6 +2,17 @@
 
 All notable changes to Espalier standard. Versioning per SPEC section 14.
 
+## 1.0.0-draft.4 (2026-08-27)
+
+No requirement of `SPEC.md` changed. Two companion specifications are admitted. A Level assessment made against draft.3 stands against draft.4 without reassessment; the draft identifier advances because section 14 advances it on any change, and admitting a companion changes what this repository publishes even when no requirement moves.
+
+Added:
+
+- `ACCEPTANCE.md`, failure-replay acceptance, 0.1.0-draft.1. An acceptance protocol for architectures: port an external system's declaration surface under porter isolation, replay its documented failures as events, and grade verdicts on an honesty-ordered scale in which a truthful report of non-coverage passes and a false claim of coverage is the worst outcome, worse than silence. Nine of its fourteen numbered clauses carry measured evidence from a reference run; the rest are marked as design inference.
+- `SUBSTRATE.md`, substrate invariants and the judgment boundary, 0.1.0-draft.1. The invariants of an information substrate serving an agent system, and the contract by which it states what it cannot answer. Its rule that one concept has one home carries a refutation mark recording that the specification's own revision reintroduced the defect the rule forbids, caught only by a targeted consistency review.
+
+Neither companion is invoked by any requirement of `SPEC.md`. Each is normative within its own scope and is cited by exact version in a claim made under it.
+
 ## 1.0.0-draft.3 (2026-08-24)
 
 No requirement changed. The draft identifier advances because section 14 advances it on any change, not only on a normative one, and applying that rule to an inconvenient change is the point of having written it. A Level assessment made against draft.2 stands against draft.3 without reassessment.

@@ -12,9 +12,11 @@
 
 | Document | Version | Status | Role |
 |---|---|---|---|
-| [SPEC](SPEC.md) | 1.0.0-draft.3 | Working Draft | The standard. Normative. |
+| [SPEC](SPEC.md) | 1.0.0-draft.4 | Working Draft | The standard. Normative. |
 | [CAPABILITY_HOST](CAPABILITY_HOST.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: capability systems served to a model. |
 | [AGENT_DEBUG](AGENT_DEBUG.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: debugging agent misbehaviour by lookup. |
+| [ACCEPTANCE](ACCEPTANCE.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: accepting an architecture by replaying an external system's documented failures. |
+| [SUBSTRATE](SUBSTRATE.md) | 0.1.0-draft.1 | Working Draft | Companion, normative within its scope: the invariants of an information substrate and the boundary of what it may judge. |
 | [RATIONALE](RATIONALE.md) | — | Informative | Where each rule comes from, what supports it, and where the evidence is thin. |
 | [TEMPLATES](TEMPLATES.md) | — | Informative | Fill-in adoption artifacts, including a runnable layer-B generator. |
 | [CHANGELOG](CHANGELOG.md) | — | — | Version history. |

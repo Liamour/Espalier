@@ -1,6 +1,6 @@
 # Espalier rationale and evidence base (informative)
 
-Companion to `SPEC.md` 1.0.0-draft.3. This document is informative throughout; nothing here can be cited to satisfy or contest a conformance claim. It records where each rule comes from, what independent evidence supports it, what the method claims as its own, and where the evidence is thin.
+Companion to `SPEC.md` 1.0.0-draft.4. This document is informative throughout; nothing here can be cited to satisfy or contest a conformance claim. It records where each rule comes from, what independent evidence supports it, what the method claims as its own, and where the evidence is thin.
 
 Citation confidence marks: **[P]** primary source fetched and read directly; **[S]** secondary-mediated (search snippets, mirrors, or paraphrase; the underlying primary was unreachable or unparseable during research). The reference list in section 6 carries the authoritative mark per source; inline marks are echoes for reading convenience, and a combined inline mark such as [P/S] means the cited set mixes both. Both marks record how a source was reached during research; neither predicts whether the source supports the claim it is cited for. Reference [11] carried the [P] mark and was still wrong about its subject until it was corrected. A citation should therefore be checked on three separate questions, because the first two can pass while the third fails: does the work exist, is it attributed correctly, and does it support the sentence that cites it. All access dates 2026-08-18 unless a publication date is given.
 

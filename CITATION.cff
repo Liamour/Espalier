@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this standard or its companion specifications, please cite it as below."
-title: "Espalier: the dependency map method, with companion specifications Capability Hosts under Espalier and Agent Debugging under Derivation"
+message: "If you use this standard, its companion specifications, or the library, please cite it as below."
+title: "Espalier: the dependency map method with companion specifications, and the Espalier context-ledger library for agent harnesses"
 abstract: >-
   Espalier is a structure-first engineering standard for codebases co-developed by
   humans and AI agents. Design documents customarily stop one level above the
@@ -19,20 +19,23 @@ abstract: >-
   conformance model (Mapped, Checked, Derived) makes adoption incremental and
   claims testable. Companion specifications extend the standard to capability
   systems served to a model and to debugging agent misbehaviour by lookup rather
-  than by recollection.
+  than by recollection. This release adds the Espalier library (Python, MIT-licensed, under src/): an append-only
+  context ledger for agent harnesses that records where every byte of context came from, exactly which bytes each model call was shown, what later compacted, replaced or removed them, and the external addresses and truncation remainders needed to read the rest back.
 type: software
 authors:
   - family-names: TSOU
     given-names: Yu-Chi
     alias: Liamour
     orcid: https://orcid.org/0009-0007-8752-6433
-license: CC-BY-4.0
+license:
+  - CC-BY-4.0
+  - MIT
 identifiers:
   - type: doi
     value: 10.5281/zenodo.22075256
     description: Concept DOI, always resolving to the latest deposited version
-version: 1.0.0-draft.4
-date-released: 2026-08-27
+version: "1.3"
+date-released: 2026-09-21
 url: "https://github.com/Liamour/Espalier"
 repository-code: "https://github.com/Liamour/Espalier"
 keywords:

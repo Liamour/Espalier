@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "espalier"
+version = "0.1.0"
+description = "Espalier — 保证信息不丢的 agent 上下文基底"
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Yu-Chi TSOU" }]
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+espalier = ["py.typed"]

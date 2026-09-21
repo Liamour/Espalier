@@ -43,7 +43,7 @@ AI agent sessions were used throughout the drafting of these documents, under th
 
 © 2026 Yu-Chi TSOU (Liamour).
 
-The standards and all prose in this repository are licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE) (CC BY 4.0). You may share and adapt this material for any purpose, including commercially, provided you give appropriate credit to the author, link to the license, and indicate if changes were made.
+The documents in this directory are licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE) (CC BY 4.0). You may share and adapt this material for any purpose, including commercially, provided you give appropriate credit to the author, link to the license, and indicate if changes were made.
 
 The code sketches in `TEMPLATES.md` are additionally available under the [MIT License](../LICENSE-CODE), so that they can be pasted into a codebase without carrying an attribution obligation into source files.
 

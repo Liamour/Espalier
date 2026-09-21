@@ -433,6 +433,6 @@ hook 的六件事实走同一条路。`Injected` 是无字段的标记变体(它
 ## 规范、许可与作者
 
 - 规范文档在 `spec/` 目录。
-- 许可:代码以 MIT 许可发布,见 `LICENSE-CODE`;`spec/` 下的文档以 CC BY 4.0 发布,见 `LICENSE`。
+- 许可:本库(`src/`、本 README、`pyproject.toml`)以 MIT 许可发布,见 `LICENSE-CODE`;`spec/` 下的文档以 CC BY 4.0 发布,见 `LICENSE`。
 - 引用:DOI [10.5281/zenodo.22075256](https://doi.org/10.5281/zenodo.22075256)(见 `CITATION.cff`)。
 - 作者:Yu-Chi TSOU (Liamour)。

@@ -8,6 +8,7 @@ version = "0.1.0"
 description = "Espalier — 保证信息不丢的 agent 上下文基底"
 readme = "README.md"
 license = "MIT"
+license-files = ["LICENSE-CODE"]
 authors = [{ name = "Yu-Chi TSOU" }]
 requires-python = ">=3.12"
 dependencies = []

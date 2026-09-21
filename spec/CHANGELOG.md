@@ -2,6 +2,10 @@
 
 All notable changes to Espalier standard. Versioning per SPEC section 14.
 
+## Repository note (release 1.3, 2026-09-21)
+
+The documents moved from the repository root into `spec/` when the library joined the repository. Their text is unchanged, so no draft identifier advances: section 14 versions the standard's text, and none of it changed. Three relative links in `spec/README.md` now point one level up to the licence and citation files.
+
 ## 1.0.0-draft.4 (2026-08-27)
 
 No requirement of `SPEC.md` changed. Two companion specifications are admitted. A Level assessment made against draft.3 stands against draft.4 without reassessment; the draft identifier advances because section 14 advances it on any change, and admitting a companion changes what this repository publishes even when no requirement moves.

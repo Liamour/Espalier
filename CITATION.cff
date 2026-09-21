@@ -34,7 +34,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.22075256
     description: Concept DOI, always resolving to the latest deposited version
-version: "1.3"
+version: "1.3.1"
 date-released: 2026-09-21
 url: "https://github.com/Liamour/Espalier"
 repository-code: "https://github.com/Liamour/Espalier"

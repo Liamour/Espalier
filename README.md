@@ -32,7 +32,7 @@ Python ≥ 3.12, no dependencies. There are three version numbers, and each move
 | Line | Current | When it moves |
 |---|---|---|
 | Package version | `0.1.0` | Only when a package is published; none has been yet |
-| git tag | `v1.3` | Milestones; a tag does not always mean the library changed |
+| git tag | `v1.3.1` | Milestones; a tag does not always mean the library changed |
 | Log format `FORMAT_VERSION` | `5` | When the key set of persisted records, or the thin record that feeds the hashes, changes |
 
 A file in an older format loads with a `format_version_behind` diagnostic. Whether to refuse it or upgrade it is the harness's decision.
